@@ -12,6 +12,6 @@ document.getElementById('submit-buttton').addEventListener('click',function(){
        return
    }
    if (email == "admin@gmail.com" && password == "01836933874" ) {
-     window.location.href = "../banking.html";
+     window.location.href = "banking.html";
    }
 })
